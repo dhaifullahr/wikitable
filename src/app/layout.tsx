@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   description: "Download tables from Wikipedia pages easily and export in CSV or Excel.",
   keywords: ["Wikipedia", "table extract", "export CSV", "download table"],
   authors: [{ name: "Rama", url: "https://x.com/dhaifulahr" }],
+  verification: {
+    google: "yfzj9NiqTfDWQ3JNcy4NQB8UXlD7JyjD1Vn_VXmSbxw",
+  },
   robots: {
     index: true,
     follow: true,
